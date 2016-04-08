@@ -5,6 +5,9 @@ Compile
 From the directory of the project
 mvn clean package
  
+
+Before running, Mongodb should be installed and running.
+
 run
 
 java -jar target/sensormetric-0.0.1-SNAPSHOT.jar 
